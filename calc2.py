@@ -199,3 +199,6 @@ status_label.pack(pady=20)
 # Run the tkinter main loop
 speak("Welcome to the voice calculator. Please say a command.")
 root.mainloop()
+
+
+# Bharat changes this file
